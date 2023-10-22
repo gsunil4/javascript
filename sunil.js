@@ -1,14 +1,11 @@
-// let do_prom = new promise((resolve,reject) =>{
-// 	if 
-// )}
-
 
 let g= "iMySunil"
 
 let r = /.([a-z])([A-Z][a-z])/
 let y = g.split(r)
+let t = y.toLowerCase()
 
- console.log(y)
+ console.log(t)
 
 
 
